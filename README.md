@@ -9,5 +9,5 @@ The project covers:
   <li>Machine Learning classification algorithms like Random forest, Logistic regression, K Neighbors, Gaussian Classifiers</li>
   <li>Evaluation using ROC curve</li>
 </ul>
-<br><br>
+<br>
 Thank you!
